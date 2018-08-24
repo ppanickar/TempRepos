@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is DE14-9659
+
+ Directory of D:\Softwares\GIT\MyRepos
+
+24-08-2018  14:53    <DIR>          .
+24-08-2018  14:53    <DIR>          ..
+24-08-2018  14:53                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  241,296,633,856 bytes free
